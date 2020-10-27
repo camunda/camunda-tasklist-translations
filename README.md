@@ -1,4 +1,4 @@
-# Camunda Webapp Translations
+# Camunda Webapp Translations: Merge Webapps
 
 
 This Camunda BPM project provides translations for Camunda Tasklist, Cockpit Basic/Full and Admin.
